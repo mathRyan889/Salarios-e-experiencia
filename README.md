@@ -1,4 +1,4 @@
-#📊 Análise de Salário vs. Experiência em Ciência de Dados
+#Análise de Salário vs. Experiência em Ciência de Dados
 
 
 Este projeto realiza uma análise simples e didática para explorar a relação entre salários e experiênciae experiência (manutenção) em anos para cientistas de dados , utilizando apenas Pythonem anos para cientistas de dados, utilizando apenas Python puro. Ideal para iniciantes que querem entender como transformar dados simples em informações úteis.
